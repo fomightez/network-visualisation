@@ -1,3 +1,7 @@
+notebook==6.*
+jupyter-server==1.*
+jupyterlab==3.*
+ipywidgets == 7.6.5
 ipysigma
 networkx
 pandas
